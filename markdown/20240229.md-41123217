@@ -1,0 +1,13 @@
+---
+Title: W3-41123217
+Date: 2024-02-29 15:00
+Category: w3--41123217
+Tags: 網誌編寫-41123217
+Slug: 2024-Spring-w3-blog-tutorial-41123217
+Author: 41123217
+---
+
+2024 Spring 網際內容管理與協同產品設計實習課程教學導引.
+<!-- PELICAN_END_SUMMARY -->
+
+第三週, 主要說明如何善用 Github Codespaces 與 Gitpod, 以及將組員倉儲設為分組倉儲的子模組, 同時導入 LaTeX 轉 pdf 機制, 啟動期中分組報告的製作
