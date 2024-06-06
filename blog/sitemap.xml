@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-06-05T13:34:44-00:00</lastmod>
+<lastmod>2024-06-06T05:06:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-06-05T13:34:44-00:00</lastmod>
+<lastmod>2024-06-06T05:06:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-06-05T13:34:44-00:00</lastmod>
+<lastmod>2024-06-06T05:06:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-06-05T13:34:44-00:00</lastmod>
+<lastmod>2024-06-06T05:06:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -90,6 +90,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./2024-Spring-w8-blog-tutorial-41123217.html</loc>
 <lastmod>2024-06-05T13:31:32+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./2024-Spring-w7-blog-tutorial-41123217.html</loc>
+<lastmod>2024-06-06T05:04:45+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -221,6 +228,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./category/w7-41123217.html</loc>
+<lastmod>2024-06-06T05:04:45+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./category/w8-41123217.html</loc>
 <lastmod>2024-06-05T13:31:32+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -236,14 +250,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./tag/wang-zhi-bian-xie-41123217.html</loc>
-<lastmod>2024-06-05T13:34:20+08:06</lastmod>
+<lastmod>2024-06-06T05:04:45+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/41123217.html</loc>
-<lastmod>2024-06-05T13:34:20+08:06</lastmod>
+<lastmod>2024-06-06T05:04:45+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
