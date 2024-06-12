@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123217協同產品設計 - w3--41123217</title><link href="./" rel="alternate"></link><link href="./feeds/w3-41123217.atom.xml" rel="self"></link><id>./</id><updated>2024-05-23T05:23:40+08:00</updated><entry><title>W3-41123217</title><link href="./2024-Spring-w3-blog-tutorial-41123217.html" rel="alternate"></link><published>2024-02-29T15:00:00+08:00</published><updated>2024-05-23T05:23:40+08:00</updated><author><name>41123217</name></author><id>tag:None,2024-02-29:./2024-Spring-w3-blog-tutorial-41123217.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123217協同產品設計 - w3--41123217</title><link href="./" rel="alternate"></link><link href="./feeds/w3-41123217.atom.xml" rel="self"></link><id>./</id><updated>2024-06-12T13:24:39+08:00</updated><entry><title>W3-41123217</title><link href="./2024-Spring-w3-blog-tutorial-41123217.html" rel="alternate"></link><published>2024-02-29T15:00:00+08:00</published><updated>2024-06-12T13:24:39+08:00</updated><author><name>41123217</name></author><id>tag:None,2024-02-29:./2024-Spring-w3-blog-tutorial-41123217.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
-&lt;p&gt;第三週, 主要說明如何善用 Github Codespaces 與 Gitpod, 以及將組員倉儲設為分組倉儲的子模組, 同時導入 LaTeX 轉 pdf 機制, 啟動期中分組報告的製作&lt;/p&gt;</content><category term="w3--41123217"></category><category term="網誌編寫-41123217"></category></entry></feed>
+&lt;p&gt;第三週, 主要說明如何善用 Github Codespaces 與 Gitpod, 以及將組員倉儲設為分組倉儲的子模組, 同時導入 LaTeX 轉 pdf 機制, 啟動期中分組報告的製作
+將組員倉儲設為分組倉儲的子模組，可以管理每個成員的任務。引入 LaTeX 轉 PDF 機制，簡化期中分組報告的製作流程，確保報告格式一致且專業。這些工具和方法讓作業過程更加有效率。&lt;/p&gt;</content><category term="w3--41123217"></category><category term="網誌編寫-41123217"></category></entry></feed>
